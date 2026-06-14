@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El mapa hacia tu corazón
+
+This log tracks the cryptographic history and versioning for the song **El mapa hacia tu corazón** (el-mapa-hacia-tu-corazon).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T13:38:02.903128 | `v1` | `98a87d03534fac082cab9559a013a50f7d47ddb9cc955cb69d4d5363938a69a1` | `209d14f19c8acd485f432230f8d55bd0cef7727b35c78523c4ba8107e16b2a6c` | `2026-06-14_el-mapa-hacia-tu-corazon-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
